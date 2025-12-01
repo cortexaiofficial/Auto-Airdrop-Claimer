@@ -62,7 +62,6 @@ If you need help, we’re here for you:
 
 ---
 
-## 🔘 Stylish Buttons (Shields.io)
 
 [![Download](https://img.shields.io/badge/Download-Cortex_AI-4ade80?style=for-the-badge)](https://cortexai.run/)  
 [![Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://cortexai.run/)  
