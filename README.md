@@ -57,7 +57,7 @@ AI starts working instantly, hunting and claiming airdrops 24/7
 ## 📬 Support
 
 If you need help, we’re here for you:  
-📧 **support@cortexai.run**
+📧 **support@cortex.com**
 
 ---
 
