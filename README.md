@@ -62,8 +62,8 @@ If you need help, we’re here for you:
 ---
 
 
-[![Download](https://img.shields.io/badge/Download-Cortex_AI-4ade80?style=for-the-badge)](https://cortexai.run/)  
-[![Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://cortexai.run/)  
+[![Download](https://img.shields.io/badge/Download-Cortex_AI-4ade80?style=for-the-badge)]()  
+[![Website](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)]()  
 [![Support](https://img.shields.io/badge/Support-Email-orange?style=for-the-badge)](mailto:support@cortexai.run)
 
 ---
