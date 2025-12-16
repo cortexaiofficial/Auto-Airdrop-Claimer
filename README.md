@@ -7,7 +7,6 @@
 **Cortex AI** is an intelligent platform that automatically discovers, completes, and claims the most profitable crypto airdrops across **Solana, BNB Chain, Ethereum, Arbitrum, Base**, and **20+ additional networks**.  
 Set it up once — and earn **fully passively** while you live your life.
 
-🔗 **Official website:** https://cortexai.run/
 
 ---
 
